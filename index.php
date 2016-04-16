@@ -85,7 +85,7 @@
       </div>
     </form>
   </div>
-			 <a href="loginplay.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
+			 <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
 
                         <p class="light">Login to play!</p>
                     </div>
