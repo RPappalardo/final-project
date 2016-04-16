@@ -188,7 +188,7 @@
     </div>
     <div class="footer-copyright">
       <div class="container">
-      Brought to you by Nick and Rachel
+      Brought to you by Nick and Rachel ;)
       </div>
     </div>
   </footer>
