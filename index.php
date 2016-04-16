@@ -182,8 +182,6 @@
           <ul>
             <li><a class="white-text" href="#!">Email Us</a></li>
             <li><a class="white-text" href="#!">Github</a></li>
-            <li><a class="white-text" href="#!">Link 3</a></li>
-            <li><a class="white-text" href="#!">Link 4</a></li>
           </ul>
         </div>
       </div>
