@@ -124,8 +124,8 @@
       </div>
       <div class="row">
         <div class="input-field col s12">
-		<input id="username" type="text" class="validate">
-		<label for="username"> User Name</label>
+		<input id="user_name" type="text" class="validate">
+		<label for="user_name"> User Name</label>
         </div>
       </div>
       <div class="row">
