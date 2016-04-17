@@ -83,7 +83,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
-                        <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange">High Scores</a></h5>
+                        <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
                         <p class="light"> Where do you rank?</p>
                     </div>
