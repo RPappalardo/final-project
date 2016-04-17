@@ -1,11 +1,5 @@
-<?php
-  // if submit button pressed
-    // if all forms filled
-    // if email is unique
-    // if other checkdnsrr
-    // login
-    // redirect to whatever via header()
-?>
+
+
 <!DOCTYPE html>
 <html lang="en">
 
@@ -29,8 +23,14 @@
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-                <li><a href="#">Navbar Link</a>
-                </li>
+              <li><a href="index.php">Home</a>
+              </li>
+              <li><a href="loginpage.php">Login</a>
+              </li>
+              <li><a href="registerpage.php">Register</a>
+              </li>
+              <li><a href="http://playcanvas.com/editor/scene/424681/launch">Demo</a>
+              </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
         </div>
@@ -54,7 +54,7 @@
 
 
 
-    <div class="container">
+    <div class="container white">
         <div class="section">
           <form action="loginpage.php" method="post">
             <fieldset>
@@ -75,6 +75,8 @@
 
         </div>
     </div>
+</div>
+
 
     <footer class="page-footer orange">
         <div class="container">
