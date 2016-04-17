@@ -149,7 +149,7 @@
   </div>
 
 
-		 <id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
+		<a href="registerpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
 
 
                         <p class="light"> Don't have an account? No problem! Register today</p>
