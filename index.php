@@ -16,7 +16,7 @@
 </head>
 
 <body>
-    <nav class="light orange" role="navigation">
+    <nav class="amber" role="navigation">
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li><a href="#"></a></li>
