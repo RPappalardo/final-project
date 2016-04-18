@@ -16,7 +16,7 @@
 
 
 <body>
-    <nav class="light-blue lighten-1" role="navigation">
+    <nav class="amber" role="navigation">
         <div class="nav-wrapper container"><img width="40" src="bigrobologo.jpg">
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.php">Home</a></li>
