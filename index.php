@@ -86,7 +86,7 @@
                         <h2 class="center light-blue-text"><img width="50" height="50" src="robojumpexample.png"></h2>
                         <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
-                        <p class="light white-text" style="text-align: center"> Where do you rank?</p>
+                        <p class= "light white-text" style="text-align: center"> Where do you rank?</p>
                     </div>
                 </div>
 
