@@ -16,7 +16,7 @@
 
 <body>
     <nav class="light-blue lighten-1" role="navigation">
-        <div class="nav-wrapper container"><a id="logo-container" href="#" class="brand-logo">Logo</a>
+        <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li><a href="#">Navbar Link</a></li>
             </ul>
@@ -60,7 +60,7 @@
             <div class="row">
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <h2 class="center light-blue-text"><i class="material-icons">flash_on</i></h2>
+                        <h2 class="center light-blue-text"><img width="40" src="bigrobologo.jpg"></h2>
                         <h5 class="center">
 
 <!--Login-->
@@ -73,7 +73,7 @@
   </div>
 			 <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
 
-                        <p class="light">Login to play!</p>
+                        <p class="light white-text">Login to play!</p>
                     </div>
                 </div>
 
@@ -82,25 +82,19 @@
 <!--Top Scores-->
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <h2 class="center light-blue-text"><i class="material-icons">group</i></h2>
+                        <h2 class="center light-blue-text"><img width="50" height="50" src="robojumpexample.png"></h2>
                         <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
-                        <p class="light"> Where do you rank?</p>
+                        <p class="light white-text">Where do you rank?</p>
                     </div>
                 </div>
 
-                <div class="col s12 m4">
-                    <div class="icon-block">
-                        <h2 class="center light-blue-text"><i class="material-icons">settings</i></h2>
-                        <h5 class="center">
-
-
-
-
-
-
 
 <!--Register-->
+                <div class="col s12 m4">
+                    <div class="icon-block">
+                        <h2 class="center light-blue-text">  <h2 class="center light-blue-text"><img width="40" src="robosidebig.jpg"></h2>
+                        <h5 class="center">
 			<div class="row">
     <form class="col s12">
       <div class="row">
@@ -108,8 +102,9 @@
         </div>
         </div>
       </div>
+
 		<a href="registerpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
-                        <p class="light"> Don't have an account? No problem! Register today</p>
+                        <p class="light white-text"> Don't have an account? No problem! Register today</p>
                     </div>
                 </div>
             </div>
