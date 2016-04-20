@@ -20,7 +20,7 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="#"></a>
+                  <a href="index.php">Home</a>
                 </li>
             </ul>
 
@@ -44,13 +44,14 @@
             <h1 class="header center orange-text">NüL5.0 Login</h1>
             <br>
             <div class="row center">
-                <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
+
             </div>
             <div class="row center">
                 <a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
+  <p class="header col s12 white-text">Presenting, the best game ever!</p>
             </div>
-            <br>
-            <br>
+                <!--<br>-->
+          <!--<br>-->
         </div>
     </div>
 
@@ -76,7 +77,7 @@
   </div>
 			   <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
 
-                        <p class="light white-text">Login to play!</p>
+                        <p class=" col s12 white-text">Login to play!</p>
                     </div>
                 </div>
 
@@ -88,7 +89,7 @@
                         <h2 class="center light-blue-text"><img width="50" height="50" src="robojumpexample.png"></h2>
                         <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
-                        <p class= "light white-text" style="text-align: center"> Where do you rank?</p>
+                        <p class= "header col s12 white-text" style="text-align: center"> Where do you rank?</p>
                     </div>
                 </div>
 
@@ -107,7 +108,7 @@
       </div>
 
 		<a href="registerpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
-                        <p class="light white-text" style="text-align: center" > Don't have an account? No problem! Register today</p>
+                        <p class="header col s12 white-text" style="text-align: center" > Don't have an account? No problem! Register today</p>
                     </div>
                 </div>
             </div>
@@ -135,20 +136,20 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
                     <ul>
-                        <li><a class="white-text" href="#!">Subtitles</a>
+                        <li><a class="white-text" href="https://www.soapui.org/soapui/media/images/stories/Mock/deploy_as_war_dialog_os.png">Subtitles</a>
                         </li>
-                        <li><a class="white-text" href="#!">Audio</a>
+                        <li><a class="white-text" href="https://www.soapui.org/soapui/media/images/stories/Mock/deploy_as_war_dialog_os.png!">Audio</a>
                         </li>
-                        <li><a class="white-text" href="#!">Gameplay</a>
+                        <li><a class="white-text" href="https://www.soapui.org/soapui/media/images/stories/Mock/deploy_as_war_dialog_os.png">Gameplay</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Connect</h5>
                     <ul>
-                        <li><a class="white-text" href="#!">Email Us</a>
+                        <li><a class="white-text" href="contactus.php">Email Us</a>
                         </li>
-                        <li><a class="white-text" href="#!">Github</a>
+                        <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                         </li>
                     </ul>
                 </div>
