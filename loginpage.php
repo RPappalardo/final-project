@@ -56,6 +56,9 @@
 
     <div class="container white">
         <div class="section">
+          <div class="col s12 m4">
+              <div class="icon-block">
+                  <h5 class="center">
           <form action="loginpage.php" method="post">
             <fieldset>
               <div class="form-group">
