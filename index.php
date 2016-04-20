@@ -19,7 +19,9 @@
     <nav class="amber" role="navigation">
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
-                <li><a href="#"></a></li>
+                <li>
+                  <a href="#"></a>
+                </li>
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
@@ -40,6 +42,7 @@
             <br>
             <br>
             <h1 class="header center orange-text">NüL5.0 Login</h1>
+            <br>
             <div class="row center">
                 <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
             </div>
@@ -48,7 +51,6 @@
             </div>
             <br>
             <br>
-
         </div>
     </div>
 
@@ -72,7 +74,7 @@
         </div>
       </div>
   </div>
-			 <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
+			   <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
 
                         <p class="light white-text">Login to play!</p>
                     </div>
@@ -91,12 +93,12 @@
                 </div>
 
 
-<!--Register-->
+                <!--Register-->
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center light-blue-text">  <h2 class="center light-blue-text"><img width="40" src="robosidebig.jpg"></h2>
                         <h5 class="center">
-			<div class="row">
+			       <div class="row">
     <form class="col s12">
       <div class="row">
         <div class="input-field col s6">
