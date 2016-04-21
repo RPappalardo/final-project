@@ -38,7 +38,8 @@
         </div>
     </nav>
     <div class="section no-pad-bot" id="index-banner">
-        <div class="container">
+        <div class="container grey darken-4">
+            <br>
             <br>
             <br>
             <h1 class="header center orange-text">NüL5.0 Login</h1>
@@ -58,7 +59,7 @@
 
 
     <div class="container">
-        <div class="section">
+        <div class="section grey darken-4">
 
             <!--   Icon Section   -->
             <div class="row">
