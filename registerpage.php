@@ -126,9 +126,9 @@
             <div class="col l3 s12">
                 <h5 class="white-text">Connect</h5>
                 <ul>
-                    <li><a class="white-text" href="#!">Email Us</a>
+                    <li><a class="white-text" href="contactus.php">Email Us</a>
                     </li>
-                    <li><a class="white-text" href="#!">Github</a>
+                    <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                     </li>
                 </ul>
             </div>
