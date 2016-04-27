@@ -18,7 +18,7 @@
     height: 500px; /* fallback for older browsers */
     height: 100vh;
     overflow-x: hidden;
-    overflow-y: auto;
+    overflow-y: scroll;
     -webkit-perspective: 300px;
     perspective: 300px;
   }
@@ -95,7 +95,8 @@
   --------------------------------------------- */
 
   body, html {
-    overflow: hidden;
+     max-width: 100%;
+    overflow-x: hidden;
   }
 
   body {
