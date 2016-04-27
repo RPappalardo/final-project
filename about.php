@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
 <meta charset="utf-8">
-<meta name="viewport" content="width=device-width">
+<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
 <link href="css/index.css" rel="stylesheet">
 <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
 <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
@@ -123,8 +123,7 @@
 
 
 
-  /* style the groups
-  --------------------------------------------- */
+  /* style the groups--------------------------------------------- */
 
   #group1 {
     z-index: 5; /* slide over group 2 */
@@ -176,8 +175,7 @@
   }
 
 
-  /* misc
-  --------------------------------------------- */
+  /*--------------------------------------------- */
   .demo__info {
     position: absolute;
     z-index:100;
@@ -240,7 +238,7 @@
       </div>
 
       <div class="parallax__layer parallax__layer--deep">
-        <div class="title">While one day refilling his oil can, he overhears a mention of a "system update" down one of the halls.</div>
+        <div class="title">While one day refilling his oil can, he overhears mention of a "system update" down one of the halls.</div>
       </div>
     </div>
     <div id="group5" class="parallax__group">
@@ -253,7 +251,7 @@
     </div>
     <div id="group6" class="parallax__group">
       <div class="parallax__layer parallax__layer--back">
-        <div class="title">Rather than using this universal button on RB, effectively turning off every robot in the building, affecting production, they decide to try to get close enough to our robot to turn him off manually with a different device.</div>
+        <div class="title">Rather than using this universal button on RB, effectively turning off every robot in the building, crippling production, they decide to try to get close enough to our robot to turn him off manually with a different device.</div>
       </div>
       <div class="parallax__layer parallax__layer--base">
         <div class="title">Help RB escape the assembly line!</div>
@@ -265,7 +263,7 @@
 
         <div class="title">Play the Game, Or Else!</div>
 
-<!--beginning of injected part-->
+<!--beginning of footer part-->
         <footer class="page-footer orange">
             <div class="container">
                 <div class="row">
@@ -299,13 +297,14 @@
             </div>
 
         </footer>
-<!--end of injected part-->
+<!--end of footer part-->
 
-
+<!--materialize-->
 <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
 <script src="js/materialize.js"></script>
 <script src="js/init.js"></script>
 
+<!--other-->
   <script>
     var debugInput = document.querySelector("input");
     function updateDebugState() {
