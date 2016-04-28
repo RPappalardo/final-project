@@ -18,93 +18,12 @@
 </head>
 
 
-<body>
-    <nav class="amber" role="navigation">
-        <div class="nav-wrapper container"><img width="40" src="bigrobologo.jpg">
-            <ul class="right hide-on-med-and-down">
-                <li><a href="index.php">Home</a></li>
-            </ul>
-
-            <ul id="nav-mobile" class="side-nav">
-              <li><a href="index.php">Home</a>
-              </li>
-              <li><a href="loginpage.php">Login</a>
-              </li>
-              <li><a href="registerpage.php">Register</a>
-              </li>
-              <li><a href="game.php">Demo</a>
-              </li>
-            </ul>
-            <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-        </div>
-    </nav>
-    <div class="section no-pad-bot" id="index-banner">
-        <div class="container">
-            <br>
-            <br>
-            <h1 class="header center orange-text">NüL5.0 Register</h1>
-            <div class="row center">
-                <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
-            </div>
-            <div class="row center">
-                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
-            </div>
-            <br>
-            <br>
-
-        </div>
-    </div>
 
 
 
 
-            <div class="container white">
-                <div class="section">
-                  <div class="col s12 m4">
-                      <div class="icon-block">
-                          <h5 class="center">
-                  <form action="registerpage.php" method="post">
-                    <fieldset>
-<div class="row">
-<form class="col s12">
-<div class="row">
-  <div class="input-field col s6">
-    <input id="first_name" type="text" class="validate">
-    <label for="first_name">First Name</label>
-  </div>
-  <div class="input-field col s6">
-    <input id="last_name" type="text" class="validate">
-    <label for="last_name">Last Name</label>
-  </div>
-</div>
-<div class="row">
-  <div class="input-field col s12">
-<input id="user_name" type="text" class="validate">
-<label for="user_name"> User Name</label>
-  </div>
-</div>
-<div class="row">
-  <div class="input-field col s12">
-    <input id="password" type="password" class="validate">
-    <label for="password">Password</label>
-  </div>
-</div>
-<div class="row">
-  <div class="input-field col s12">
-    <input id="email" type="email" class="validate">
-    <label for="email">Email</label>
-  </fieldset>
-<div class="section">
-</form>
-</div>
-</div>
-</div>
-<h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
 
 
-</div>
-</div>
-</div>
 
 <footer class="page-footer orange">
     <div class="container">
@@ -118,11 +37,11 @@
             <div class="col l3 s12">
                 <h5 class="white-text">Settings</h5>
                 <ul>
-                    <li><a class="white-text" href="#!">Subtitles</a>
+                    <li><a class="white-text" href="settings.php">Subtitles</a>
                     </li>
-                    <li><a class="white-text" href="#!">Audio</a>
+                    <li><a class="white-text" href="settings.php">Audio</a>
                     </li>
-                    <li><a class="white-text" href="#!">Gameplay</a>
+                    <li><a class="white-text" href="settings.php">Gameplay</a>
                     </li>
                 </ul>
             </div>
@@ -143,13 +62,3 @@
         </div>
     </div>
 </footer>
-
-
-<!--  Scripts-->
-<script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-<script src="js/materialize.js"></script>
-<script src="js/init.js"></script>
-
-</body>
-
-</html>
