@@ -70,8 +70,8 @@
 
 
 <div class="fl">
-  <center> <iframe src="http://playcanvas.com/editor/scene/424681/launch" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" width="600" height="400" ></center>
- <button id="fullscreeniframe" class="button">Fullscreen iframe</button>
+  <center> <iframe src="http://playcanvas.com/editor/scene/424681/launch" webkitallowfullscreen="true" mozallowfullscreen="true" allowfullscreen="true" width="600" height="400" ></iframe></center>
+ <center><button id="fullscreeniframe" class="button">Click Here to Make the Game Fullscreen</button></center>
 </div>
 
 <script>
