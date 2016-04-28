@@ -40,7 +40,7 @@
               </li>
               <li><a href="registerpage.php">Register</a>
               </li>
-              <li><a href="http://playcanvas.com/editor/scene/424681/launch">Demo</a>
+              <li><a href="game.php">Demo</a>
               </li>
           </ul>
           <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
@@ -56,7 +56,7 @@
 
           </div>
           <div class="row center">
-              <a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
+              <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
 <p class="header col s12 white-text">Presenting, the best game ever!</p>
           </div>
               <!--<br>-->

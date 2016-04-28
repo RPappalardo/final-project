@@ -31,7 +31,7 @@
                 </li>
                 <li><a href="registerpage.php">Register</a>
                 </li>
-                <li><a href="http://playcanvas.com/editor/scene/424681/launch">Demo</a>
+                <li><a href="game.php">Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
@@ -49,7 +49,7 @@
 
             </div>
             <div class="row center">
-                <a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
+                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
   <p class="header col s12 white-text">Presenting, the best game ever!</p>
             </div>
                 <!--<br>-->
@@ -89,7 +89,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center light-blue-text"><img width="50" height="50" src="robojumpexample.png"></h2>
-                        <h5 class="center"><a href="http://playcanvas.com/editor/scene/424681/launch" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
+                        <h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
                         <p class= "header col s12 white-text" style="text-align: center"> Where do you rank?</p>
                     </div>
