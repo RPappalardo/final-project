@@ -69,29 +69,29 @@
 <form class="col s12">
 <div class="row">
   <div class="input-field col s6">
-    <input id="first_name" type="text" name="first_name" value="">
+    <input id="first_name" type="text" class="validate">
     <label for="first_name">First Name</label>
   </div>
   <div class="input-field col s6">
-    <input id="last_name" type="text" name="last_name" value="">
+    <input id="last_name" type="text" class="validate">
     <label for="last_name">Last Name</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-<input id="user_name" type="text" name="user_name" value="">
+<input id="user_name" type="text" class="validate">
 <label for="user_name"> User Name</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-    <input id="password" type="password" name="password" value="">
+    <input id="password" type="password" class="validate">
     <label for="password">Password</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-    <input id="email" type="email" name="email" value="">
+    <input id="email" type="email" class="validate">
     <label for="email">Email</label>
   </fieldset>
 <div class="section">
@@ -99,8 +99,7 @@
 </div>
 </div>
 </div>
-
-<h5 class="center"><a href="registered.php" id="download-button" class="btn-large waves-effect waves-light orange" type="register" name="register" value="register">Register</a></h5>
+<h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
 
 
 </div>
@@ -119,11 +118,11 @@
             <div class="col l3 s12">
                 <h5 class="white-text">Settings</h5>
                 <ul>
-                    <li><a class="white-text" href="settings.php">Subtitles</a>
+                    <li><a class="white-text" href="#!">Subtitles</a>
                     </li>
-                    <li><a class="white-text" href="settings.php">Audio</a>
+                    <li><a class="white-text" href="#!">Audio</a>
                     </li>
-                    <li><a class="white-text" href="settings.php">Gameplay</a>
+                    <li><a class="white-text" href="#!">Gameplay</a>
                     </li>
                 </ul>
             </div>
