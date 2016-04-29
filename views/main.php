@@ -20,7 +20,7 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="../public/main.php">Home</a>
+                  <a href="index.php">Home</a>
                 </li>
             </ul>
 
