@@ -31,7 +31,7 @@
               </li>
               <li><a href="loginpage.php">Login</a>
               </li>
-              <li><a href="registerpage.php">Register</a>
+              <li><a href="register.php">Register</a>
               </li>
               <li><a href="game.php">Demo</a>
               </li>
