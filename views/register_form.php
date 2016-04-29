@@ -16,7 +16,7 @@
 
 <body>
     <nav class="amber" role="navigation">
-        <div class="nav-wrapper container"><img width="40" src="bigrobologo.jpg">
+        <div class="nav-wrapper container"><img width="40" src="..//bigrobologo.jpg">
             <ul class="right hide-on-med-and-down">
                 <li><a href="index.php">Home</a></li>
             </ul>
@@ -89,13 +89,10 @@
   <div class="input-field col s12">
     <input id="email" type="email" name="email" value="" required/>
     <label for="email">Email</label>
-
-    </div>
-    </div>
-    </div>
-    <h5 class="center"><a id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
-
   </fieldset>
+    </div>
+    </div>
+    <h5 class="center"><a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
 </form>
 
 
