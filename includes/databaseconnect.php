@@ -1,4 +1,6 @@
 <?php
+  require("helper.php");
+
   $servername = "localhost";
   $username = "root";
   $password = "";
