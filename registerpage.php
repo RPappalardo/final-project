@@ -99,7 +99,7 @@
 </div>
 </div>
 </div>
-<h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
+<h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit">Register</a></h5>
 
 
 </div>
