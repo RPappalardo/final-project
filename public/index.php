@@ -1,0 +1,5 @@
+<?php
+
+  render("main.php");
+
+ ?>
