@@ -109,7 +109,7 @@
         </div>
       </div>
 
-		<a href="registerpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
+		<a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
                         <p class="header col s12 white-text" style="text-align: center" > Don't have an account? No problem! Register today</p>
                     </div>
                 </div>
