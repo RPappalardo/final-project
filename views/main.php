@@ -9,10 +9,10 @@
     <title>NüL</title>
 
     <!-- CSS  -->
-    <link href="css/index.css" rel="stylesheet">
+    <link href="../css/index.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 </head>
 
 <body>
@@ -29,7 +29,7 @@
                 </li>
                 <li><a href="loginpage.php">Login</a>
                 </li>
-                <li><a href="registerpage.php">Register</a>
+                <li><a href="register.php">Register</a>
                 </li>
                 <li><a href="game.php">Demo</a>
                 </li>
@@ -66,7 +66,7 @@
             <div class="row">
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <h2 class="center light-blue-text"><img width="40" src="bigrobologo.jpg"></h2>
+                        <h2 class="center light-blue-text"><img width="40" src="../bigrobologo.jpg"></h2>
                         <h5 class="center">
 
 <!--Login-->
@@ -88,7 +88,7 @@
 <!--Top Scores-->
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <h2 class="center light-blue-text"><img width="50" height="50" src="robojumpexample.png"></h2>
+                        <h2 class="center light-blue-text"><img width="50" height="50" src="../robojumpexample.png"></h2>
                         <h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
                         <p class= "header col s12 white-text" style="text-align: center"> Where do you rank?</p>
@@ -99,7 +99,7 @@
                 <!--Register-->
                 <div class="col s12 m4">
                     <div class="icon-block">
-                        <h2 class="center light-blue-text">  <h2 class="center light-blue-text"><img width="40" src="robosidebig.jpg"></h2>
+                        <h2 class="center light-blue-text">  <h2 class="center light-blue-text"><img width="40" src="../robosidebig.jpg"></h2>
                         <h5 class="center">
 			       <div class="row">
     <form class="col s12">
