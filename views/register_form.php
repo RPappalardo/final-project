@@ -93,7 +93,7 @@
     </div>
     </div>
     </div>
-    <h5 class="center"><a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
+    <h5 class="center"><a id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
 
   </fieldset>
 </form>
