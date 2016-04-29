@@ -1,8 +1,15 @@
 <!DOCTYPE html>
 
 <?php require("includes/databaseconnect.php");
-?>
 
+if($_SERVER["REQUEST_METHOD" == $_POST])
+{
+  if(empty($_POST["user_name"]) || empty($_POST["first_name"]) || empty($_POST["last_name"]) || empty($_POST["email"]) || empty($_POST["password"]))
+  {
+      echo("Please fill the fields.");
+  }
+}
+?>
 
 
   <html lang="en">
