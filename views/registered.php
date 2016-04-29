@@ -16,31 +16,8 @@
 
 
 
-
-
-
-
-
   <body>
-    <nav class="amber" role="navigation">
-        <div class="nav-wrapper container"><img width="40" src="bigrobologo.jpg">
-            <ul class="right hide-on-med-and-down">
-                <li><a href="index.php">Home</a></li>
-            </ul>
 
-            <ul id="nav-mobile" class="side-nav">
-              <li><a href="index.php">Home</a>
-              </li>
-              <li><a href="loginpage.php">Login</a>
-              </li>
-              <li><a href="register.php">Register</a>
-              </li>
-              <li><a href="game.php">Demo</a>
-              </li>
-            </ul>
-            <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
-        </div>
-    </nav>
     <div class="section no-pad-bot" id="index-banner">
         <div class="container">
             <br>

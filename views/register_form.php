@@ -62,7 +62,7 @@
                   <form action="registerpage.php" method="post">
                     <fieldset>
 <div class="row">
-<form class="col s12" method="post" action="registered.php">
+<form class="col s12" method="post" action="register.php">
 <div class="row">
   <div class="input-field col s6">
     <input id="first_name" type="text" name="first_name" value="" required/>
@@ -96,7 +96,7 @@
 </div>
 </div>
 
-<h5 class="center"><a href="registered.php" id="download-button" class="btn-large waves-effect waves-light orange" type="register" name="register" value="register">Register</a></h5>
+<h5 class="center"><a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
 
 
 </div>
