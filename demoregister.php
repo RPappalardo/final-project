@@ -14,7 +14,7 @@
     $lname_cleaned = ucfirst(strtolower(trim($_POST['lname'])));
     $email_cleaned = trim(strtolower($_POST['email'])); // Strips white space and removes capitalization
     $password_cleaned = $_POST['password'];
-    $password2_cleaned = $_POST['password2'];
+
     $key = $_POST['key'];
     $isWorking = True;
     // TODO if entries are NOT filled
