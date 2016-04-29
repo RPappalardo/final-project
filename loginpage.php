@@ -70,10 +70,10 @@
           <form action="loginpage.php" method="post">
             <fieldset>
               <div class="form-group">
-                  <input autocomplete="off" autofocus class="form-control" name="username" placeholder="Username" type="text"/>
+                  <input class= "field" autocomplete="off" autofocus class="form-control" name="username" placeholder ="User Name" id="username" type="text"/>
               </div>
               <div class="form-group">
-                  <input class="form-control" name="password" placeholder="Password" type="password"/>
+                  <input class= "field" autofocus class="form-control" name="password" id="password" type="password" placeholder="Password"/>
               </div>
 
             </fieldset>
@@ -87,7 +87,7 @@
         <h5 class="center">
 
 <div class="form-group">
-    <button class="btn btn-default" type="submit">
+    <button class="btn btn-default" type="submit" name="submit" value="Login">
         <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
         <a href="game.php" class = "white-text"> Log In</a>
     </button>
