@@ -72,11 +72,11 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
                     <ul>
-                        <li><a class="white-text" href="#!">Subtitles</a>
+                        <li><a class="white-text" href="settings.php">Subtitles</a>
                         </li>
-                        <li><a class="white-text" href="#!">Audio</a>
+                        <li><a class="white-text" href="settings.php">Audio</a>
                         </li>
-                        <li><a class="white-text" href="#!">Gameplay</a>
+                        <li><a class="white-text" href="settings.php">Gameplay</a>
                         </li>
                     </ul>
                 </div>
