@@ -59,7 +59,7 @@
                   <div class="col s12 m4">
                       <div class="icon-block">
                           <h5 class="center">
-                  <form action="registerpage.php" method="post">
+                  <form action="register.php" method="post">
                     <fieldset>
 <div class="row">
 <form class="col s12" method="post" action="register.php">
@@ -89,14 +89,14 @@
   <div class="input-field col s12">
     <input id="email" type="email" name="email" value="" required/>
     <label for="email">Email</label>
-  </fieldset>
-<div class="section">
-</form>
-</div>
-</div>
-</div>
 
-<h5 class="center"><a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
+    </div>
+    </div>
+    </div>
+    <h5 class="center"><a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange" type="submit" name="register" value="register">Register</a></h5>
+
+  </fieldset>
+</form>
 
 
 </div>
