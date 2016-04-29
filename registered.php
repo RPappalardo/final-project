@@ -2,7 +2,7 @@
 
 <?php require("includes/databaseconnect.php");
 
-if($_SERVER["REQUEST_METHOD" == $_POST])
+if($_SERVER["REQUEST_METHOD"] == $_POST)
 {
   if(empty($_POST["user_name"]) || empty($_POST["first_name"]) || empty($_POST["last_name"]) || empty($_POST["email"]) || empty($_POST["password"]))
   {
