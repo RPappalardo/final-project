@@ -66,32 +66,32 @@
                   <form action="registerpage.php" method="post">
                     <fieldset>
 <div class="row">
-<form class="col s12">
+<form class="col s12" method="post" action="registered.php">
 <div class="row">
   <div class="input-field col s6">
-    <input id="first_name" type="text" name="first_name" value="">
+    <input id="first_name" type="text" name="first_name" value="" required/>
     <label for="first_name">First Name</label>
   </div>
   <div class="input-field col s6">
-    <input id="last_name" type="text" name="last_name" value="">
+    <input id="last_name" type="text" name="last_name" value="" required/>
     <label for="last_name">Last Name</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-<input id="user_name" type="text" name="user_name" value="">
+<input id="user_name" type="text" name="user_name" value="" required/>
 <label for="user_name"> User Name</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-    <input id="password" type="password" name="password" value="">
+    <input id="password" type="password" name="password" value="" required/>
     <label for="password">Password</label>
   </div>
 </div>
 <div class="row">
   <div class="input-field col s12">
-    <input id="email" type="email" name="email" value="">
+    <input id="email" type="email" name="email" value="" required/>
     <label for="email">Email</label>
   </fieldset>
 <div class="section">
