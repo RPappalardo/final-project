@@ -49,7 +49,7 @@
 
             </div>
             <div class="row center">
-                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
+                <a href="/views/game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
   <p class="header col s12 white-text">Presenting, the best game ever!</p>
             </div>
                 <!--<br>-->
