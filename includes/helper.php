@@ -9,7 +9,7 @@
      * Helper functions.
      */
 
-    require_once("databaseconnect.php");
+    require_once("../includes/databaseconnect.php");
 
     /**
      * Apologizes to user with message.

@@ -1,4 +1,4 @@
 <?php
   require("../includes/databaseconnect.php");
-  render("main.php", ["title" => "Main"]);
+  render("../views/main.php", ["title" => "Main"]);
  ?>
