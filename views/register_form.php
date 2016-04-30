@@ -18,7 +18,7 @@
     <nav class="amber" role="navigation">
         <div class="nav-wrapper container"><img width="40" src="..//bigrobologo.jpg">
             <ul class="right hide-on-med-and-down">
-                <li><a href="index.php">Home</a></li>
+                <li><a href="../public/index.php">Home</a></li>
             </ul>
 
             <ul id="nav-mobile" class="side-nav">

@@ -18,7 +18,7 @@
   <nav class="amber" role="navigation">
       <div class="nav-wrapper container">
               <li>
-                <a href="index.php">Home</a>
+                <a href="../public/index.php">Home</a>
               </li>
   </nav>
   <div class="section no-pad-bot" id="index-banner">

@@ -41,7 +41,7 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="index.php">Home</a>
+                  <a href="../public/index.php">Home</a>
                 </li>
             </ul>
 

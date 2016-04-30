@@ -12,10 +12,10 @@
     <title>NüL</title>
 
     <!-- CSS  -->
-    <link href="css/index.css" rel="stylesheet">
+    <link href="../css/index.css" rel="stylesheet">
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-    <link href="css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
-    <link href="css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 </head>
 
 <body>
@@ -23,7 +23,7 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="index.php">Home</a>
+                  <a href="../public/index.php">Home</a>
                 </li>
             </ul>
 
@@ -52,13 +52,13 @@
 
 
 <p class= "header col s12 white-text" style="text-align: center"> Subtitles </p>
-            <form action="game.php">
+            <form action="../views/game.php">
                 <p>
                   <input type="checkbox" id="test1" />
                   <label for="test1"><a class="white-text">I would like English Subtitles, pls</a></label>
                 </p>
                 <p>
-                  <form action="game.php">
+                  <form action="../views/game.php">
                       <p>
                         <input type="checkbox" id="test2" />
                         <label for="test2"><a class="white-text">I speak another Language</a></label>
@@ -68,13 +68,13 @@
 <br>
 
 <p class= "header col s12 white-text" style="text-align: center"> Audio </p>
-<form action="game.php">
+<form action="../views/game.php">
     <p>
       <input type="checkbox" id="test3" />
       <label for="test3"><a class="white-text">Turn that Blasted Noise Down!</a></label>
     </p>
     <p>
-      <form action="game.php">
+      <form action="../views/game.php">
           <p>
             <input type="checkbox" id="test4" />
             <label for="test4"><a class="white-text">I Drive a Car</a></label>
@@ -86,13 +86,13 @@
 <br>
 
 <p class= "header col s12 white-text" style="text-align: center"> Game Play </p>
-<form action="game.php">
+<form action="../views/game.php">
     <p>
       <input type="checkbox" id="test5" />
       <label for="test5"><a class="white-text">I am a Turtle</a></label>
     </p>
     <p>
-      <form action="game.php">
+      <form action="../views/game.php">
           <p>
             <input type="checkbox" id="test6" />
             <label for="test6"><a class="white-text">I am not a Turtle</a></label>
