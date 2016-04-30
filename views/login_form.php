@@ -1,7 +1,5 @@
 <!DOCTYPE html>
 
-<?php require("../includes/databaseconnect.php");
-?>
 
 <html lang="en">
 
@@ -22,19 +20,19 @@
         <div class="nav-wrapper container"><img width="40" src="bigrobologo.jpg">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="index.php">Home</a>
+                  <a href="../public/index.php">Home</a>
                 </li>
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-              <li><a href="index.php">Home</a>
-              </li>
-              <li><a href="loginpage.php">Login</a>
-              </li>
-              <li><a href="register.php">Register</a>
-              </li>
-              <li><a href="game.php">Demo</a>
-              </li>
+                <li><a href="../public/index.php">Home</a>
+                </li>
+                <li><a href="loginpage.php">Login</a>
+                </li>
+                <li><a href="../public/register.php">Register</a>
+                </li>
+                <li><a href="../views/game.php">Demo</a>
+                </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
         </div>
@@ -48,7 +46,7 @@
                 <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
             </div>
             <div class="row center">
-                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
+                <a href="../views/game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
             </div>
             <br>
             <br>
@@ -89,7 +87,7 @@
 <div class="form-group">
     <button class="btn btn-default" type="submit" name="submit" value="Login">
         <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
-        <a href="game.php" class = "white-text"> Log In</a>
+        <a href="../views/game.php" class = "white-text"> Log In</a>
     </button>
 </div>
 </div>
@@ -111,18 +109,18 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
                     <ul>
-                        <li><a class="white-text" href="settings.php">Subtitles</a>
+                        <li><a class="white-text" href="../public/settings.php">Subtitles</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Audio</a>
+                        <li><a class="white-text" href="../public/settings.php">Audio</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Gameplay</a>
+                        <li><a class="white-text" href="../public/settings.php">Gameplay</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Connect</h5>
                     <ul>
-                        <li><a class="white-text" href="contactus.php">Email Us</a>
+                        <li><a class="white-text" href="../views/contactus.php">Email Us</a>
                         </li>
                         <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                         </li>
