@@ -20,12 +20,12 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="index.php">Home</a>
+                  <a href="main.php">Home</a>
                 </li>
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-                <li><a href="index.php">Home</a>
+                <li><a href="public/index.php">Home</a>
                 </li>
                 <li><a href="loginpage.php">Login</a>
                 </li>
