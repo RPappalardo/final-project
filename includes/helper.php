@@ -23,12 +23,12 @@
      * Facilitates debugging by dumping contents of argument(s)
      * to browser.
      */
-    function dump()
-    {
-        $arguments = func_get_args();
-        require("../views/dump.php");
-        exit;
-    }
+  /**  function dump()
+  *  {
+  *      $arguments = func_get_args();
+  *      require("../views/dump.php");
+  *      exit;
+    } */
 
     /**
      * Logs out current user, if any.  Based on Example #1 at
