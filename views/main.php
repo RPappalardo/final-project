@@ -20,18 +20,18 @@
         <div class="nav-wrapper container">
             <ul class="right hide-on-med-and-down">
                 <li>
-                  <a href="index.php">Home</a>
+                  <a href="../public/index.php">Home</a>
                 </li>
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-                <li><a href="public/index.php">Home</a>
+                <li><a href="../public/index.php">Home</a>
                 </li>
                 <li><a href="loginpage.php">Login</a>
                 </li>
                 <li><a href="register.php">Register</a>
                 </li>
-                <li><a href="game.php">Demo</a>
+                <li><a href="../views/game.php">Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
@@ -42,14 +42,14 @@
             <br>
             <br>
             <br>
-            <h5 class="center"><a href="about.php" id="download-button" class="btn-large waves-effect waves-light orange">The Story</a></h5>
+            <h5 class="center"><a href="../views/about.php" id="download-button" class="btn-large waves-effect waves-light orange">The Story</a></h5>
             <p class= "header col s12 white-text" style="text-align: center"> Learn RB's story</p>
             <br>
             <div class="row center">
 
             </div>
             <div class="row center">
-                <a href="/views/game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
+                <a href="../views/game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play Demo</a>
   <p class="header col s12 white-text">Presenting, the best game ever!</p>
             </div>
                 <!--<br>-->
@@ -77,7 +77,7 @@
         </div>
       </div>
   </div>
-			   <a href="loginpage.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
+			   <a href="../public/login.php" id="download-button" class="btn-large waves-effect waves-light orange">Login</a>
 
                         <p class=" col s12 white-text">Login to play!</p>
                     </div>
@@ -89,7 +89,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center light-blue-text"><img width="50" height="50" src="../robojumpexample.png"></h2>
-                        <h5 class="center"><a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
+                        <h5 class="center"><a href="../views/game.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
                         <p class= "header col s12 white-text" style="text-align: center"> Where do you rank?</p>
                     </div>
@@ -109,7 +109,7 @@
         </div>
       </div>
 
-		<a href="register.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
+		<a href="../public/register.php" id="download-button" class="btn-large waves-effect waves-light orange">Register</a></h5>
                         <p class="header col s12 white-text" style="text-align: center" > Don't have an account? No problem! Register today</p>
                     </div>
                 </div>
@@ -138,18 +138,18 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
                     <ul>
-                        <li><a class="white-text" href="settings.php">Subtitles</a>
+                        <li><a class="white-text" href="../public/settings.php">Subtitles</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Audio</a>
+                        <li><a class="white-text" href="../public/settings.php">Audio</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Gameplay</a>
+                        <li><a class="white-text" href="../public/settings.php">Gameplay</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Connect</h5>
                     <ul>
-                        <li><a class="white-text" href="contactus.php">Email Us</a>
+                        <li><a class="white-text" href="../views/contactus.php">Email Us</a>
                         </li>
                         <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                         </li>
