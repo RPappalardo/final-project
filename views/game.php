@@ -46,13 +46,13 @@
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-                <li><a href="index.php">Home</a>
+                <li><a href="../public/index.php">Home</a>
                 </li>
                 <li><a href="loginpage.php">Login</a>
                 </li>
-                <li><a href="registerpage.php">Register</a>
+                <li><a href="../public/register.php">Register</a>
                 </li>
-                <li><a href="game.php">Demo</a>
+                <li><a href="../views/game.php">Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
@@ -170,8 +170,8 @@
 
     <!--  Scripts-->
     <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-    <script src="js/materialize.js"></script>
-    <script src="js/init.js"></script>
+    <script src="../js/materialize.js"></script>
+    <script src="../js/init.js"></script>
 
 </body>
 

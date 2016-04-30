@@ -1,5 +1,5 @@
 <?php
-  require("helper.php");
+  require("../includes/helper.php");
 
   $servername = "localhost";
   $username = "root";

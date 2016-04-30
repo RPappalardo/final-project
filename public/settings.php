@@ -28,13 +28,13 @@
             </ul>
 
             <ul id="nav-mobile" class="side-nav">
-                <li><a href="index.php">Home</a>
+                <li><a href="../public/index.php">Home</a>
                 </li>
                 <li><a href="loginpage.php">Login</a>
                 </li>
-                <li><a href="registerpage.php">Register</a>
+                <li><a href="../public/register.php">Register</a>
                 </li>
-                <li><a href="game.php">Demo</a>
+                <li><a href="../views/game.php">Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
@@ -128,18 +128,18 @@
                         <div class="col l3 s12">
                             <h5 class="white-text">Settings</h5>
                             <ul>
-                                <li><a class="white-text" href="settings.php">Subtitles</a>
+                                <li><a class="white-text" href="../public/settings.php">Subtitles</a>
                                 </li>
-                                <li><a class="white-text" href="settings.php">Audio</a>
+                                <li><a class="white-text" href="../public/settings.php">Audio</a>
                                 </li>
-                                <li><a class="white-text" href="settings.php">Gameplay</a>
+                                <li><a class="white-text" href="../public/settings.php">Gameplay</a>
                                 </li>
                             </ul>
                         </div>
                         <div class="col l3 s12">
                             <h5 class="white-text">Connect</h5>
                             <ul>
-                                <li><a class="white-text" href="contactus.php">Email Us</a>
+                                <li><a class="white-text" href="../views/contactus.php">Email Us</a>
                                 </li>
                                 <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                                 </li>
@@ -157,8 +157,8 @@
 
             <!--  Scripts-->
             <script src="https://code.jquery.com/jquery-2.1.1.min.js"></script>
-            <script src="js/materialize.js"></script>
-            <script src="js/init.js"></script>
+            <script src="../js/materialize.js"></script>
+            <script src="../js/init.js"></script>
 
           </body>
 
