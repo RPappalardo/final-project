@@ -37,7 +37,7 @@
           <ul id="nav-mobile" class="side-nav">
               <li><a href="../public/index.php">Home</a>
               </li>
-              <li><a href="loginpage.php">Login</a>
+              <li><a href="../public/login.php">Login</a>
               </li>
               <li><a href="../public/register.php">Register</a>
               </li>
