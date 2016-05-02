@@ -21,14 +21,15 @@
                 <li><a href="../public/index.php">Home</a></li>
             </ul>
 
-            <ul id="nav-mobile" class="side-nav">
-                <li><a href="../public/index.php">Home</a>
+            <ul id="nav-mobile" class="side-nav  grey darken-4">
+              <br>
+                <li><a href="../public/index.php" class="white-text">Home</a>
                 </li>
-                <li><a href="../public/login.php">Login</a>
+                <li><a href="../public/login.php" class="white-text">Login</a>
                 </li>
-                <li><a href="../public/register.php">Register</a>
+                <li><a href="../public/register.php" class="white-text">Register</a>
                 </li>
-                <li><a href="../views/game.php">Demo</a>
+                <li><a href="../views/game.php" class="white-text">Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
