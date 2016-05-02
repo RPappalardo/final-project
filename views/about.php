@@ -17,9 +17,26 @@
 
   <nav class="amber" role="navigation">
       <div class="nav-wrapper container">
+        <div class="nav-wrapper container">
+          <ul class="right hide-on-med-and-down">
               <li>
                 <a href="../public/index.php">Home</a>
               </li>
+            </ul>
+
+              <ul id="nav-mobile" class="side-nav">
+                <br>
+                  <li><a href="../public/index.php">Home</a>
+                  </li>
+                  <li><a href="../public/login.php">Login</a>
+                  </li>
+                  <li><a href="../public/register.php">Register</a>
+                  </li>
+                  <li><a href="../views/game.php">Demo</a>
+                  </li>
+              </ul>
+              <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
+
   </nav>
   <div class="section no-pad-bot" id="index-banner">
       <div class="container">
