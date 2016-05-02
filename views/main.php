@@ -13,6 +13,7 @@
     <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
     <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
     <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/papyrus.css" type="text/css" rel="stylesheet" media="screen,projection" />
 </head>
 
 <body>
@@ -32,7 +33,7 @@
                 </li>
                 <li><a href="../public/register.php" class="white-text">Register</a>
                 </li>
-                <li><a href="../views/game.php" class="white-text">Demo</a>
+                <li><a href="../views/game.php" class="white-text" >Demo</a>
                 </li>
             </ul>
             <a href="#" data-activates="nav-mobile" class="button-collapse"><i class="material-icons">menu</i></a>
