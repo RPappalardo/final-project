@@ -1,4 +1,5 @@
-
+SET SQL_MODE = "NO_AUTO_VALUE_ON_ZERO";
+SET time_zone = "+00:00";
 --
 
 CREATE TABLE `nul_users` (
@@ -9,5 +10,6 @@ CREATE TABLE `nul_users` (
   `username` varchar(30) collate utf8_unicode_ci NOT NULL default '',
   `hash` varchar(255) collate utf8_unicode_ci NOT NULL default '',
   PRIMARY KEY  (`user_id`),
-  UNIQUE KEY `username` (`username`), `email` (`email`)
+  UNIQUE KEY `username` (`username`)
+
 ) ENGINE=MyISAM  DEFAULT CHARSET=utf8 COLLATE=utf8_unicode_ci;
