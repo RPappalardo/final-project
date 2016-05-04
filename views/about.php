@@ -40,7 +40,7 @@
   </nav>
   <div class="section no-pad-bot" id="index-banner">
       <div class="container">
-          <div class="header center orange-text">;-)</div>
+          <div class="header center white-text">:-)</div>
 
       </div>
   </div>
