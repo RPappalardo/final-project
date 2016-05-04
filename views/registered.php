@@ -24,7 +24,7 @@
             <br>
             <h1 class="header center orange-text">NüL5.0</h1>
             <div class="row center">
-                <h3 class ="header col s12 white-text">Thank you for joing us!</h3>
+                <h3 class ="header col s12 white-text">Thank you for joining us!</h3>
 
                 <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
             </div>
