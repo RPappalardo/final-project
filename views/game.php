@@ -142,18 +142,18 @@
                 <div class="col l3 s12">
                     <h5 class="white-text">Settings</h5>
                     <ul>
-                        <li><a class="white-text" href="settings.php">Subtitles</a>
+                        <li><a class="white-text" href="../public/settings.php">Subtitles</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Audio</a>
+                        <li><a class="white-text" href="../public/settings.php">Audio</a>
                         </li>
-                        <li><a class="white-text" href="settings.php">Gameplay</a>
+                        <li><a class="white-text" href="..public/settings.php">Gameplay</a>
                         </li>
                     </ul>
                 </div>
                 <div class="col l3 s12">
                     <h5 class="white-text">Connect</h5>
                     <ul>
-                        <li><a class="white-text" href="contactus.php">Email Us</a>
+                        <li><a class="white-text" href="../views/contactus.php">Email Us</a>
                         </li>
                         <li><a class="white-text" href="https://github.com/RPappalardo/final-project">Github</a>
                         </li>
