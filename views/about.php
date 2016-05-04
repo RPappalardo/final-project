@@ -1,15 +1,16 @@
 <!DOCTYPE html>
 
 <html lang="en">
-<head>
-<meta charset="utf-8">
-<meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
-<link href="../css/index.css" rel="stylesheet">
-<link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
-<link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
-<link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
 
-<link href="../css/about.css" type="text/css" rel="stylesheet" media="screen,projection" />
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1.0, user-scalable=no"/>
+    <link href="../css/index.css" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/icon?family=Material+Icons" rel="stylesheet">
+    <link href="../css/materialize.css" type="text/css" rel="stylesheet" media="screen,projection" />
+    <link href="../css/style.css" type="text/css" rel="stylesheet" media="screen,projection" />
+
+    <link href="../css/about.css" type="text/css" rel="stylesheet" media="screen,projection" />
 
 </head>
 
@@ -48,6 +49,7 @@
   <div class="debug">
     <label> <a href="../views/game.php"> Play Now!</a></label>
   </div>
+
   <div class="demo__info">
     Brought to you by Nick and Rachel ;)
   </div>
@@ -58,6 +60,7 @@
         <div class ="title">Oh hai! We give you the time, place, and setting</div>
       </div>
     </div>
+
     <div id="group2" class="parallax__group">
       <div class="parallax__layer parallax__layer--base">
         <div class="title">These robots are sent to the NüL to get updated and rebooted every 5 years.</div>
@@ -66,6 +69,7 @@
         <div class="title">The future begins with the OZ5.0 assembly line of robots.</div>
       </div>
     </div>
+
     <div id="group3" class="parallax__group">
       <div class="parallax__layer parallax__layer--fore">
         <div class="title">....or is he?</div>
@@ -74,6 +78,7 @@
         <div class="title">You will play as RB, a standard issue bot </div>
       </div>
     </div>
+
     <div id="group4" class="parallax__group">
       <div class="parallax__layer parallax__layer--base">
         <div class="title">Why does he need a reboot if he's happy just as he is?</div>
@@ -83,6 +88,7 @@
         <div class="title">While one day refilling his oil can, he overhears mention of a "system update" down one of the halls.</div>
       </div>
     </div>
+
     <div id="group5" class="parallax__group">
       <div class="parallax__layer parallax__layer--fore">
         <div class="title">But there's a device that can turn him off at the snap of a finger.</div>
@@ -91,6 +97,7 @@
         <div class="title">Only thing left is escape</div>
       </div>
     </div>
+    
     <div id="group6" class="parallax__group">
       <div class="parallax__layer parallax__layer--back">
         <div class="title">Rather than using this universal button on RB, effectively turning off every robot in the building, crippling production, they decide to try to get close enough to our robot to turn him off manually with a different device.</div>
