@@ -49,12 +49,8 @@
             <br>
             <h1 class="header center orange-text">NüL5.0</h1>
             <div class="row center">
-                <h3 class ="header col s12 white-text">Logged In!</h3>
+                <h3 class ="header col s12 white-text">Your High Scores!</h3>
 
-                <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
-            </div>
-            <div class="row center">
-                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play!</a>
             </div>
             <br>
             <br>
