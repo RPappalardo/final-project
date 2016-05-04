@@ -88,7 +88,7 @@
 <div class="form-group">
     <button class="btn btn-default" type="submit" name="submit" value="Login">
         <span aria-hidden="true" class="glyphicon glyphicon-log-in"></span>
-        <a href="../views/game.php" class = "white-text"> Log In</a>
+        <a href="../views/loggedin.php" class = "white-text"> Log In</a>
     </button>
 </div>
 </div>
