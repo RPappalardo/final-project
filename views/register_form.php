@@ -41,10 +41,7 @@
             <br>
             <h1 class="header center orange-text">NüL5.0 Register</h1>
             <div class="row center">
-                <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
-            </div>
-            <div class="row center">
-                <a href="../views/game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
+                <h5 class="header col s12 white-text">Join Us!</h5>
             </div>
             <br>
             <br>

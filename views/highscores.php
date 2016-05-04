@@ -50,7 +50,16 @@
             <h1 class="header center orange-text">NüL5.0</h1>
             <div class="row center">
                 <h3 class ="header col s12 white-text">Your High Scores!</h3>
-
+                <ol class = "white-text">
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                  <li>xxxxxxx</li>
+                </ol>
             </div>
             <br>
             <br>
