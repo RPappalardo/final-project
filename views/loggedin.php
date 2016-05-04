@@ -54,7 +54,7 @@
                 <h5 class="header col s12 white-text">Presenting, the best game ever!</h5>
             </div>
             <div class="row center">
-                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Demo</a>
+                <a href="game.php" id="download-button" class="btn-large waves-effect waves-light orange">Play!</a>
             </div>
             <br>
             <br>
