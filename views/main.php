@@ -92,7 +92,7 @@
                 <div class="col s12 m4">
                     <div class="icon-block">
                         <h2 class="center light-blue-text"><img width="50" height="50" src="../robojumpexample.png"></h2>
-                        <h5 class="center"><a href="../views/game.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
+                        <h5 class="center"><a href="../views/highscores.php" id="download-button" class="btn-large waves-effect waves-light orange"> Scores</a></h5>
 
                         <p class= "header col s12 white-text" style="text-align: center"> Where do you rank?</p>
                     </div>
